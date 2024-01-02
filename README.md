@@ -1,2 +1,2 @@
-# C-Programming-Practice
+# C++-Programming-Practice
 C++ codes I used for practicing the Language
